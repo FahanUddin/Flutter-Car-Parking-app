@@ -1,0 +1,77 @@
+[
+    {
+      "featureType": "administrative",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "landscape",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "landscape.man_made",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "poi",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "poi.business",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    },
+    {
+      "featureType": "poi.government",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "poi.park",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "road",
+      "stylers": [
+        {
+          "saturation": 20
+        },
+        {
+          "weight": 1.5
+        }
+      ]
+    },
+    {
+      "featureType": "transit",
+      "stylers": [
+        {
+          "visibility": "on"
+        }
+      ]
+    }
+  ]
